@@ -12,7 +12,7 @@ class CameraFeatureExtractor(nn.Module):
     """Extract features from camera images using ResNet backbone"""
     def __init__(self):
         super().__init__()
-        # Simple CNN backbone for feature extraction
+        # Simple CNN backbone for features extraction
         self.conv1 = nn.Conv2d(3, 64, 7, stride=2, padding=3)
         self.bn1 = nn.BatchNorm2d(64)
         self.relu = nn.ReLU(inplace=True)

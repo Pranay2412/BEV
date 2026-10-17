@@ -2,8 +2,6 @@
 
 This project implements a **Bird's-Eye View (BEV) perception system** for autonomous driving using multi-camera inputs. The system converts multiple camera views into a unified top-down representation for better 3D understanding.
 
-## 🎯 Project Status: ~45% Complete
-
 ### ✅ Implemented Features
 
 #### 1. **Multi-Camera Feature Extraction**

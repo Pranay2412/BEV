@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env & python3
 """
 BEV Training Script
 Trains the BEV detection and velocity models

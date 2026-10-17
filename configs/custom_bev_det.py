@@ -1,4 +1,4 @@
-# BEV Detection Configuration
+# BEV Detection Configurations
 model = dict(
     type='BEVDetector',
     backbone=dict(
